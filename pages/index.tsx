@@ -58,3 +58,4 @@ export const getStaticProps=wrapper.getStaticProps(
       store.dispatch(getCategorres(data1))
   }
 )
+console.log('welcome')
